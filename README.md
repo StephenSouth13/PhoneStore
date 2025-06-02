@@ -1,30 +1,83 @@
-# DoAn_Web1
+# 📱 PhoneStore – Website Bán Điện Thoại Thông Minh
 
-Donate? Muốn hỗ trợ mình 1 ly cafe <3 [Donate here] 
+🚀 [Xem bản DEMO tại đây](https://stephensouth13.github.io/PhoneStore/)  
+📌 Chủ dự án: [Vietnam Student Marathon](https://www.facebook.com/vietnamstudentmarathon)
 
-Đồ án môn web 1, web tĩnh, đề tài trang web bán điện thoại.
+---
 
-Giao diện thân thiện, dễ sử dụng, chức năng khá đầy đủ.
+## ✨ Giới thiệu
 
-Chức năng **Cơ bản**:
+**PhoneStore** là một nền tảng thương mại điện tử chuyên bán điện thoại, được thiết kế với **giao diện hiện đại**, **thân thiện với người dùng**, đầy đủ tính năng cả cho khách hàng **và quản trị viên**.
 
-- Trang chủ hiển thị đẹp, các sản phẩm được chia theo nhiều tiêu chí: nổi bật, mới, khuyến mãi, giá rẻ, .. 
-- Tìm kiếm/lọc/sắp xếp sản phẩm theo hãng, giá, tên, khuyến mãi, đánh giá, số sao, ...
-- Đăng ký, đăng nhập, giỏ hàng, trang người dùng, lịch sử mua hàng.
-- Trang chi tiết sản phẩm, giao diện **gợi ý sản phẩm** tương tự.
+Website hỗ trợ đầy đủ các chức năng từ xem sản phẩm, đặt hàng, cho đến quản lý sản phẩm và thống kê doanh thu.
 
-Chức năng **ADMIN**:
+---
 
-- **Thống kê** số lượng bán ra, doanh thu của từng hãng
-- Danh sách **sản phẩm**, tìm kiếm/lọc, thêm/sửa/xoá sản phẩm
-- Danh sách **đơn hàng**, tìm kiếm/lọc, duyệt/huỷ đơn hàng
-- Danh sách **khách hàng**, tìm kiếm/lọc, thêm/xoá/khoá khác hàng
+## 🛒 Tính Năng Chính
 
-## Admin Account: 
-+ username: admin
-+ password: adadad
+### 👥 Người Dùng
 
-## Screenshots
+- ✅ Giao diện trang chủ hiển thị đẹp mắt, chia sản phẩm theo tiêu chí:  
+  **Nổi bật**, **Mới ra mắt**, **Khuyến mãi**, **Giá rẻ**, ...
+- 🔍 Tìm kiếm nâng cao: theo **hãng**, **giá**, **tên**, **đánh giá**, **sao**, ...
+- 📦 Quản lý giỏ hàng, đăng ký – đăng nhập, lịch sử mua hàng.
+- 💡 Trang chi tiết sản phẩm có phần **gợi ý sản phẩm tương tự** cực tiện lợi.
 
-### Cơ bản
+---
+
+### 🛠️ Quản Trị Viên (Admin)
+
+> 🧠 Tài khoản thử nghiệm:
+> - **Username**: `admin`  
+> - **Password**: `adadad`
+
+- 📊 **Thống kê** số lượng bán ra, doanh thu theo từng hãng điện thoại.
+- 🛠️ Quản lý **sản phẩm**: tìm kiếm, lọc, thêm, sửa, xoá dễ dàng.
+- 📋 Quản lý **đơn hàng**: lọc, tìm kiếm, duyệt/hủy đơn nhanh chóng.
+- 👥 Quản lý **khách hàng**: xem danh sách, khóa/xoá tài khoản khi cần.
+
+---
+
+## 📸 Một Số Hình Ảnh Demo
+
+> _(![image](https://github.com/user-attachments/assets/e41fc544-d72a-477f-a18d-07a14bc342e9)
+)_
+> ![image](https://github.com/user-attachments/assets/e2e2b2b5-f482-43a7-bdb3-53fdff7e6bc9)
+
+
+| Trang Chủ | Chi Tiết Sản Phẩm | Quản Trị Sản Phẩm |
+|-----------|-------------------|--------------------|
+| ![Trang Chủ](images/home.png) | ![Chi Tiết](images/detail.png) | ![Admin](images/admin-product.png) |
+
+---
+
+## 🔧 Công Nghệ Sử Dụng
+
+- 💻 HTML5, CSS3, JavaScript
+- 🗂️ LocalStorage để mô phỏng database
+- 📊 Chart.js cho biểu đồ thống kê
+- ⚙️ GitHub Pages để deploy site
+
+---
+
+## 🚀 Triển Khai
+
+Website đã được deploy tại GitHub Pages:  
+🔗 https://stephensouth13.github.io/PhoneStore/
+
+---
+
+## 💡 Đóng Góp & Phát Triển
+
+Bạn có ý tưởng phát triển thêm? Đừng ngại mở issue hoặc gửi pull request!  
+Hãy cùng nhau cải tiến **PhoneStore**!
+
+---
+
+## 📫 Liên Hệ
+
+- Facebook: [Vietnam Student Marathon](https://www.facebook.com/vietnamstudentmarathon)
+- GitHub: [StephenSouth13](https://github.com/StephenSouth13)
+
+---
 
