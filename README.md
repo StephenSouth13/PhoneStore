@@ -45,12 +45,6 @@ Website hỗ trợ đầy đủ các chức năng từ xem sản phẩm, đặt 
 > ![image](https://github.com/user-attachments/assets/e2e2b2b5-f482-43a7-bdb3-53fdff7e6bc9)
 
 
-| Trang Chủ | Chi Tiết Sản Phẩm | Quản Trị Sản Phẩm |
-|-----------|-------------------|--------------------|
-| ![Trang Chủ](![image](https://github.com/user-attachments/assets/a8c168d8-01fd-4758-a3b5-91d070e054ea)
-) | ![Chi Tiết](![image](https://github.com/user-attachments/assets/cacebec1-c699-4e4c-b18f-2f794bba3ba4)
-) | ![Admin](https://github.com/user-attachments/assets/e2e2b2b5-f482-43a7-bdb3-53fdff7e6bc9) |
-
 ---
 
 ## 🔧 Công Nghệ Sử Dụng
